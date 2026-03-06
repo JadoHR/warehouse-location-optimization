@@ -1,0 +1,11 @@
+warehouse_id,city,province,island,latitude,longitude,fixed_cost_million_idr,capacity_units,land_area_m2,near_toll,near_port,near_airport
+W001,North Jakarta,DKI Jakarta,Java,-6.1213,106.8997,5000,50000,10000,True,True,False
+W002,Cikarang,West Java,Java,-6.3468,107.1430,3500,45000,12000,True,False,False
+W003,Cibitung,West Java,Java,-6.2706,107.0459,3200,40000,11000,True,False,False
+W004,Surabaya,East Java,Java,-7.2575,112.7521,4000,40000,9000,True,True,False
+W005,Semarang,Central Java,Java,-6.9934,110.4203,3000,35000,8500,True,True,False
+W006,Bandung,West Java,Java,-6.9175,107.6191,3500,30000,8000,True,False,True
+W007,Medan,North Sumatra,Sumatra,3.5952,98.6722,3800,35000,9000,True,True,True
+W008,Makassar,South Sulawesi,Sulawesi,-5.1477,119.4327,3200,28000,7500,True,True,True
+W009,Balikpapan,East Kalimantan,Kalimantan,-1.2676,116.8289,3500,25000,7000,True,True,True
+W010,Denpasar,Bali,Bali,-8.6705,115.2126,4000,20000,6000,True,True,True
